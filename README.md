@@ -4,14 +4,14 @@ Souq clone.
 
 # Features
 
--Login and logout and authentication with firebase.
--Fetching category and products from firestore.
--Shopping cart.
--Favourites.
--Orders.
--Customizable profile.
--Dark mode.
--Contact Us.
+-Login and logout and authentication with firebase.</br>
+-Fetching category and products from firestore.</br>
+-Shopping cart.</br>
+-Favourites.</br>
+-Orders.</br>
+-Customizable profile.</br>
+-Dark mode.</br>
+-Contact Us.</br>
 
 ## Packages
 
