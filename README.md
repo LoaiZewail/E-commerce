@@ -1,4 +1,4 @@
-# E-commerce App
+# E-commerce App - iti graduation project
 
 Souq clone.
 
