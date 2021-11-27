@@ -1,6 +1,6 @@
-# E-commerce App - iti graduation project
+# E-commerce app - iti graduation project
 
-Souq clone.
+-Souq clone.
 
 # Features
 
